@@ -5,7 +5,12 @@
 body {
     /* font-family: "Pixelify Sans", serif; */
     font-family: "Space Mono", serif;
-}
+    background-image: url("https://thumbs.dreamstime.com/b/topographic-map-contour-background-topo-elevation-vector-geographic-world-topography-grid-abstract-illustration-101914540.jpg");
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+
+    /* background-image: url("./assets/bg.png"); */
+  }
 
 .space-mono-regular {
     font-family: "Space Mono", serif;
